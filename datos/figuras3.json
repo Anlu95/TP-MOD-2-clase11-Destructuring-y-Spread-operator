@@ -1,0 +1,53 @@
+[
+    {
+        "id":1,
+        "marca":"star wars",
+        "nombre":"luke skywalker",
+        "precio": 800,
+        "stock":7
+    },
+
+    {
+        "id":2,
+        "marca":"star wars",
+        "nombre":"scout trooper",
+        "precio": 499,
+        "stock": 7
+    },
+    {
+        "id":3,
+        "marca":"star wars",
+        "nombre":"boba fett",
+        "precio": 300,
+        "stock":9
+    },
+    {
+        "id":4,
+        "marca":"star wars",
+        "nombre":"dark trooper",
+        "precio": 300,
+        "stock":6
+    },
+    {
+        "id":5,
+        "marca":"star wars",
+        "nombre":"kessel run",
+        "precio": 2002,
+        "stock": 3
+    },
+    {
+        "id":6,
+        "marca":"star wars",
+        "nombre":"jedi",
+        "precio":400,
+        "stock":7
+    },
+    {
+        "id":7,
+        "marca":"star wars",
+        "nombre":"ahsoka tano",
+        "precio":490,
+        "stock":12
+    }
+    
+]
